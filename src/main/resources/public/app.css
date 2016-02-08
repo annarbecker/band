@@ -1,0 +1,38 @@
+.jumbotron {
+  padding: 0px;
+  background-color: white
+}
+
+#albumCover {
+  margin-top: 60px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D4AF37;
+  text-decoration: underline;
+}
+
+.container {
+  background-color: white;
+  border-radius: 5px;
+}
+
+body {
+  background-image: url("../images/stardust.png");
+  padding: 10px;
+}
+
+button {
+  background-color: #D4AF37;
+  color: white;
+}
+
+button:hover {
+  background-color: gray;
+  color: white;
+}
